@@ -1,5 +1,5 @@
 def using_concat(array1, array1)
-  my_favorite_things.concat(all_my_favs)
+  array1.concat(array2)
 end
 
 def using_insert(array, element)
