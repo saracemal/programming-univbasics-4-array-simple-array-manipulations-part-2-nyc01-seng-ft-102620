@@ -1,4 +1,4 @@
-def using_concat(all_my_favs, my_favorite_things)
+def using_concat(array1, array1)
   my_favorite_things.concat(all_my_favs)
 end
 
